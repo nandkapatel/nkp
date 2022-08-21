@@ -1,2 +1,2 @@
-# nkp
+
 #index-light.html
